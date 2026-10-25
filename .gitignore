@@ -1,0 +1,23 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Testing and logs
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# OS and editor files
+.DS_Store
